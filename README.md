@@ -10,7 +10,7 @@
 
 ## 🚀 Skills
 
-![C]([https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black))
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 
 
