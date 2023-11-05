@@ -1,4 +1,4 @@
-## 💜 Hi, my name is <strong>{Luciano Vieira}!</strong>
+##  Hi, my name is <strong>{Luciano Vieira}!</strong>
 
 > I studied security and pen testing from an early age, I worked in areas such as support, infrastructure and development. I currently work as a Cybersecurity Engineer keeping companies safe.
 
@@ -63,6 +63,6 @@
 
 <h3>Social Media</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianovieirapro/)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucianovieiradev@gmail.co)](mailto:lucianovieiradev@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-lucianovieirapro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianovieirapro/)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-lucianovieiradev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucianovieiradev@gmail.co)](mailto:lucianovieiradev@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/b1n0xd)
